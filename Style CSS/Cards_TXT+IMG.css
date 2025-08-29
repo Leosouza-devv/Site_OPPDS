@@ -1,16 +1,3 @@
-:root {
-    --secondary-gradient: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    --accent-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-    --dark-gradient: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-    --glass-bg: rgba(255, 255, 255, 0.1);
-    --glass-border: rgba(255, 255, 255, 0.2);
-    --text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-    --card-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-    --hover-shadow: 0 30px 60px rgba(0, 0, 0, 0.15);
-}
-
-
-
 
 
 .container {
