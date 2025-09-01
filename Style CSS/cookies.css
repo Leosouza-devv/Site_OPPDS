@@ -667,4 +667,9 @@
 /* Focus trap para modal */
 .cookie-settings.show {
     isolation: isolate;
+
 }
+
+
+/* Layout responsivo para altura */
+

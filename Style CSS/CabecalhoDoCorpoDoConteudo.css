@@ -51,7 +51,7 @@ header.CabecalhoDoCorpoDoConteudo {
         & p {
 
             margin: 0 auto;
-            width: 90%;
+            width: 85%;
 
             & a {
                 color: var(--black);
